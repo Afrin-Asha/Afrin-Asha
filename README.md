@@ -11,8 +11,8 @@ I am Sanjida Afrin, a **Computer Science Graduate**. Have a very keen interest o
 
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjida-afrin/)
+
 
 ## Skills
 
