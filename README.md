@@ -33,10 +33,10 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Afrin-Asha&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afrin-Asha&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Afrin-Asha.Afrin-Asha)
 view rawREADME.txt hosted with ❤ by GitHub
 
 <!---
