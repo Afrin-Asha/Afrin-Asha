@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Afrin-Asha
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... MongoDB
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...[Gmail]
+- 📫 How to reach me ...[Gmail](afrinasha217@gmail.com)
+- <!-- 💞️ I’m looking to collaborate on ...--->
 
 
 ### Hi there 👋
