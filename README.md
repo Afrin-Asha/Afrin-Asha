@@ -16,7 +16,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
